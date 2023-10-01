@@ -1,0 +1,10 @@
+1. Maissel, L. I., Glang, R., “Handbook of Thin Film Technology” Mc. Graw-Hill Company, 1970.
+2. Schuegraf, K. K. (1988). Handbook of thin-film deposition processes and techniques: principles, methods, equipment, and applications. Noyes Data Corporation/Noyes Publications.
+3. Pung, S.-Y., et al., Preferential growth of ZnO thin films by the atomic layer deposition technique. Nanotechnology, 2008. 19(43): p. 435609.
+4. Burton, W.-K., N. Cabrera, and F. Frank, The growth of crystals and the equilibrium structure of their surfaces. Philosophical Transactions of the Royal Society of London. Series A, Mathematical and Physical Sciences, 1951. 243(866): p. 299-358.
+5. Dutta, K.C.P.P.V., Thin-film solar cells: an overview. Prog. Photovoltaics Res. Appl, 2004. 12(23): p. 69-92.
+6. Craciun, V., et al., Characteristics of high quality ZnO thin films deposited by pulsed laser deposition. Applied physics letters, 1994. 65(23): p. 2963-2965.
+7. Tvarozek, V., et al., Influence of sputtering parameters on crystalline structure of ZnO thin films. Thin Solid Films, 2007. 515(24): p. 8756-8760.
+8. Kumar, R., et al., ZnO nanostructured thin films: Depositions, properties and applications—A review. Materials Express, 2015. 5(1): p. 3-23.
+9. Kappertz, O., et al., Reactive sputter deposition of zinc oxide: Employing resputtering effects to tailor film properties. Thin Solid Films, 2005. 484(1-2): p. 64-67.
+10. M. J. Alam and D. C. Cameron, “Preparation and properties of transparent conductive aluminum-doped zinc oxide thin films by solgel process,” Journal of Vacuum Science & Technology A, vol. 19, pp. 1642–1646, July 2001.

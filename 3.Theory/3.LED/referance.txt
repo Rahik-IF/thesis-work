@@ -1,0 +1,4 @@
+1. Idris, M. S., & Subramani, S. (2021). Nanostructures multilayer MgO/ZnO thin film thermal interface material for LED applications: Thermal, optical, and surface temperature performance. Journal of Materials Science: Materials in Electronics, 32(12), 16008-16023.
+2. B. G. Streetman and S. K. Banerjee, Solid State Electronic Devices. Pearson Prentice Hall, 6 ed., 2006. 28. J. C. Fan, K. M. Sreekanth, Z. Xie, S. L. Chang, and K. V. Rao, “p-type ZnO materials: Theory, growth, properties and devices,” Progress in Materials Science, vol. 58, no. 6, pp. 874 – 985, 2013.
+3. Y. Lixin, X. Zheng, H. Yanbing, Z. Xiqing, W. Yongsheng, X. Xurong, The ultraviolet and blue luminescence properties of ZnO:Zn thin films, Chin. Sci. Bull. 46 (2001) 1223.
+4. 
