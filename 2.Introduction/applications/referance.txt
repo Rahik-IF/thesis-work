@@ -15,3 +15,4 @@ doi:10.1016/j.matchemphys.2014.10.027.
 10. Carcia P F, McLean R S, Reilly M H and Nunes G 2003 Appl.Phys. Lett. 82 1117
 11. Chu, S. Y., Yan, T. M., & Chen, S. L. (2000). Analysis of ZnO varistors prepared by the sol–gel method. Ceramics International, 26(7), 733-737.
 12. Yu, Q., Fu, W., Yu, C., Yang, H., Wei, R., Sui, Y., ... & Zou, G. (2007). Structural, electrical and optical properties of yttrium-doped ZnO thin films prepared by sol–gel method. Journal of Physics D: Applied Physics, 40(18), 5592.
+13. Zhou, Y., L. Yang, and Y. Huang, Micro-and macromechanical properties of materials. 2013: CRC Press.

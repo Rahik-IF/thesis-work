@@ -2,4 +2,13 @@
 2. T. Jun, K. Song, Y. Jung, S. Jeong, J. Moon, J. Mater. Chem. 21 (2011) 13524.
 3. C.-T. Wu, J.-J. Wu, J. Mater. Chem. 21 (2011) 13605.
 4. L. Znaidi, Mater. Sci. Eng. B 174 (2010) 18.
-5. 
+5. X. Han, K. Han, M. Tao, Low Resistivity Yttrium-Doped Zinc Oxide by
+Electrochemical Deposition, J. Electrochem. Soc. 157 (2010) H593.
+doi:10.1149/1.3377092.
+6. R. Kaur, A. V. Singh, R.M. Mehra, Structural, electrical and optical properties of
+sol-gel derived yttrium doped ZnO films, Phys. Status Solidi. 202 (2005) 1053–
+1059. doi:10.1002/pssa.200420006.
+7. X.B. Li, Q.Q. Zhang, S.Y. Ma, G.X. Wan, F.M. Li, X.L. Xu, Microstructure
+optimization and gas sensing improvement of ZnO spherical structure through
+yttrium doping, Sensors Actuators, B Chem. 195 (2014) 526–533.
+doi:10.1016/j.snb.2014.01.087.
