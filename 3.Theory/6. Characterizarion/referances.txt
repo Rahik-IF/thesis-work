@@ -1,0 +1,5 @@
+1. Cullity, B. D., ‘Elements of X-ray Diffraction’ Addison-Wesley Publishing Company. Inc. USA, 1959.
+2. Kodom, K. (2011). Heavy metal pollution in soils from anthropogenic activities. LAP LAMBERT Academic Publishing, 120.
+3. Zhu, F. Y., Wang, Q. Q., Zhang, X. S., Hu, W., Zhao, X., & Zhang, H. X. (2014). 3D nanostructure reconstruction based on the SEM imaging principle, and applications. Nanotechnology, 25(18), 185705.
+4. https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/spectrpy/uv-vis/uvspec.htm
+5. Service Detail. (2019). Retrieved from http://14.139.58.69/icar_teldir/services/home/service_detail?name_instru=FTIR%20Spec trophotometer%20&unique_num=150&xdidz=361&p=../institute/instrument_image&d=s ervices_inti&c=services_chargeinti&xdybz=institute_committee&qptsu=../institute/com mittee_image
