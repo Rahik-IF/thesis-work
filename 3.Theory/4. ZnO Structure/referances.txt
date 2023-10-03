@@ -1,5 +1,0 @@
-1. Ü. Özgür, Y. I. Alivov, C. Liu, A. Teke, M. A. Reshchikov, S. Dogan, V. Avrutin, S. J. Cho, and H. Morkoc, “A comprehensive review of ZnO materials and devices,” J. Appl. Phys., vol. 98, 2005.
-2. K. Momma and F. Izumi, “VESTA 3 for three-dimensional visualization of crystal, volumetric and morphology data,” J. Appl. Crystal logr., vol. 44, pp. 1272–1276, Dec 2011.
-3. Cho, A., Growth of periodic structures by the molecular‐beam method. Applied Physics Letters, 1971. 19(11): p. 467-468.
-4. Schmidt-Mende, L., & MacManus-Driscoll, J. L. (2007). ZnO–nanostructures, defects, and devices. Materials today, 10(5), 40-48.
-5. Yamamoto, T., & Katayama-Yoshida, H. (2001). Physics and control of valence states in ZnO by codoping method. Physica B: Condensed Matter, 302, 155-162.
