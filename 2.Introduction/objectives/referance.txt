@@ -1,13 +1,13 @@
-1. J. Yang, R.Wang, L. Yang, J. Lang,M.Wei, M. Gao, X. Liu, J. Cao, X. Li, N. Yang, J. Alloys
+8. J. Yang, R.Wang, L. Yang, J. Lang,M.Wei, M. Gao, X. Liu, J. Cao, X. Li, N. Yang, J. Alloys
 Compd. 509 (2011) 3606.
-2. X. Han, K. Han, M. Tao, J. Electrochem. Soc. 157 (2010) H593.
-3. P.-T. Hsieh, R.W.-K. Chuang, C.-Q. Chang, C.-M. Wang, S.-J. Chang, J. Sol-Gel Sci.
+9. X. Han, K. Han, M. Tao, J. Electrochem. Soc. 157 (2010) H593.
+10. P.-T. Hsieh, R.W.-K. Chuang, C.-Q. Chang, C.-M. Wang, S.-J. Chang, J. Sol-Gel Sci.
 Technol. 58 (2011) 42.
-4.P. Chen, W. Lai, L.-C. Peng, C. Kuo, C.-L. Yeh, J. Sheu, C. Tun, IEEE Trans. Electron
+11.P. Chen, W. Lai, L.-C. Peng, C. Kuo, C.-L. Yeh, J. Sheu, C. Tun, IEEE Trans. Electron
 Devices 57 (2010) 134.
-5. X. Han, K. Han, M. Tao, Low Resistivity Yttrium-Doped Zinc Oxide by Electrochemical Deposition, J. Electrochem. Soc. 157 (2010) H593.
+12. X. Han, K. Han, M. Tao, Low Resistivity Yttrium-Doped Zinc Oxide by Electrochemical Deposition, J. Electrochem. Soc. 157 (2010) H593.
 doi:10.1149/1.3377092.
-6. P.-T. Hsieh, R.W.-K. Chuang, C.-Q. Chang, C.-M. Wang, S.-J. Chang, Optical
+13. P.-T. Hsieh, R.W.-K. Chuang, C.-Q. Chang, C.-M. Wang, S.-J. Chang, Optical
 and structural characteristics of yttrium doped ZnO films using sol–gel
 technology, J. Sol-Gel Sci. Technol. 58 (2011) 42–47. doi:10.1007/s10971-010-
 2352-0.

@@ -1,11 +1,11 @@
-1. Q. Yu, W. Fu, C. Yu, H. Yang, R. Wei, Y. Sui, S. Liu, Z. Liu, M. Li, G. Wang, J. Phys. D.
+70. Q. Yu, W. Fu, C. Yu, H. Yang, R. Wei, Y. Sui, S. Liu, Z. Liu, M. Li, G. Wang, J. Phys. D.
 Appl. Phys. 40 (2007) 5592.
-2. O. Lupan, T. Pauporté, L. Chow, B. Viana, F. Pellé, L.K. Ono, B. Roldan Cuenya, H. Heinrich, Effects of annealing on properties of ZnO thin films prepared by electrochemical deposition in chloride medium, Appl. Surf. Sci. 256
+71. O. Lupan, T. Pauporté, L. Chow, B. Viana, F. Pellé, L.K. Ono, B. Roldan Cuenya, H. Heinrich, Effects of annealing on properties of ZnO thin films prepared by electrochemical deposition in chloride medium, Appl. Surf. Sci. 256
 (2010) 1895–1907. doi:10.1016/j.apsusc.2009.10.032.
-3. N. El-Kadry, A. Ashour, S.A. Mahmoud, Structural dependence of d.c. electrical
+72. N. El-Kadry, A. Ashour, S.A. Mahmoud, Structural dependence of d.c. electrical
 properties of physically deposited CdTe thin films, Thin Solid Films. 269 (1995)
 112–116. doi:10.1016/0040-6090(95)06869-4.
-4. S.J.S. Qazi, A.R. Rennie, J.K. Cockcroft, M. Vickers, Use of wide-angle X-ray diffraction to measure shape and size of dispersed colloidal particles, J. Colloid
+73. S.J.S. Qazi, A.R. Rennie, J.K. Cockcroft, M. Vickers, Use of wide-angle X-ray diffraction to measure shape and size of dispersed colloidal particles, J. Colloid
 Interface Sci. 338 (2009) 105–110. doi:10.1016/j.jcis.2009.06.006.
-5. P.P. Sahay, R.K. Nath, Al-doped ZnO thin films as methanol sensors, Sensors
+74. P.P. Sahay, R.K. Nath, Al-doped ZnO thin films as methanol sensors, Sensors
 Actuators, B Chem. 134 (2008) 654–659. doi:10.1016/j.snb.2008.06.006.
